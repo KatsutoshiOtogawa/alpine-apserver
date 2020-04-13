@@ -1,2 +1,4 @@
 # alpine-apserver
 alpineのapserver用の設定です。appフォルダ配下にプロジェクトをおき、Dockerfileをビルドすることによってalpineにdeployしてください。
+appフォルダは.gitignoreで無視するようにしているので、
+レポジトリ には反映されません。
